@@ -10,7 +10,7 @@
 	padding-top: 10px;
 }
 .info {
-	padding: 35px 20px 10px 10px;
+	padding: 40px 15px 10px 10px;
 }
 .title{
 	position: absolute;
@@ -19,7 +19,6 @@
 	left: 0;
 	font-size: 1.7em;
 	color: solid black;
-
 }
 #brand{
 	font-size: 2em;
